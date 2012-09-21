@@ -23,6 +23,7 @@
  * @subpackage    UploadFile
  * @author        Wanglong
  * @link          http://minicode.org/docs/libraries/upload_file
+ * @version       1.0
  */
 
 class UploadFile {
@@ -31,7 +32,7 @@ class UploadFile {
      * Form input field name
      *
      * @access private
-     * @var     string
+     * @var    string
      */
     private $field         = '';
 

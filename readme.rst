@@ -6,7 +6,7 @@ This is Minicode provide class library collection package, they can perfect unio
 
 The class library mostly from the minicode carefully write, of course, also have comes from other class library inspiration and secondary reconstruction.
 
-Adhering to the minicode only need to need thought, the class library is also independent writing, they can completely independent existence, leave the minicode use, can be used in any where needed, even other framework is also possible.
+Adhering to the minicode only need to need thought, the class library is also independent writing. If this Class Dependent label marked for "None" then they can completely independent existence, leave the minicode use, can be used in any where needed, even other framework is also possible.
 
 You don't need to, we also don't recommend you take these all libraries in your project, only take what you need it. Put them in minicode convention directory, and can realize automatic loading.
 
@@ -38,9 +38,9 @@ Note: Only the directory have PHP files can be loaded to them, that they can't l
 
     eg: libraries/Request.php   √
 
-*********
-Install
-*********
+************
+Installation
+************
 
 You can also through the command line, for installation operation. This will avoid you hand to download them
 
